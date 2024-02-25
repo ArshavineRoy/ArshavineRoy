@@ -13,6 +13,14 @@
 ## GitHub Streak 🔥 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArshavineRoy&theme=radical&hide_border=false)<br/>
 
+## Wakatime Stats
+
+My language stats as of Jan 2, 2024 on VS Code only
+
+[![wakatime badge](https://wakatime.com/badge/user/018cc731-65e8-475c-8dd3-1bb44fd26e3d.svg)](https://wakatime.com/@018cc731-65e8-475c-8dd3-1bb44fd26e3d)
+
+![Arshavine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArshavineWaema&theme=gotham&layout=compact)
+
 
 ## Socials
 [![Twitter Badge](https://img.shields.io/twitter/follow/arshavinewaema?style=social)](https://twitter.com/arshavinewaema)
